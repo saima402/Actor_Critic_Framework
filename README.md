@@ -4,6 +4,7 @@ This repository contains the implementation of the Critic module of our proposed
 The framework is designed to identify lexically ambiguous user queries and iteratively rewrite them into clearer, semantically equivalent queries before they are processed by LLMs.
 
 The proposed framework consists of two components:
+
 **1. Actor LLM**
 Detects whether a query is lexically ambiguous and produces an ambiguity label and lastly estimates confidence.
 
