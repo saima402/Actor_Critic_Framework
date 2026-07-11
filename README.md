@@ -1,4 +1,4 @@
-Actor–Critic Framework for Lexical Ambiguity Resolution in Large Language Models: 
+**Actor–Critic Framework for Lexical Ambiguity Resolution in Large Language Models:** 
 
 This repository contains the implementation of the Critic module of our proposed Actor–Critic framework for lexical ambiguity detection and resolution in Large Language Models (LLMs).
 The framework is designed to identify lexically ambiguous user queries and iteratively rewrite them into clearer, semantically equivalent queries before they are processed by downstream LLMs.
